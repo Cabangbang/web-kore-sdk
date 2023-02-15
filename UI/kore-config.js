@@ -11,7 +11,7 @@
     botOptions.koreAnonymousFn = koreAnonymousFn;
     botOptions.recorderWorkerPath = '../libs/recorderWorker.js';
 
-    botOptions.JWTUrl = "https://bots.kore.ai/webclient/795979214ef546ed81eaf41aed79014c0c1a19f1452e447db57b06a07a059482sted";
+    botOptions.JWTUrl = "https://developer.kore.ai/tools/jwt/";
     botOptions.userIdentity = 'raphacabangbang@gmail.com';// Provide users email id here
     botOptions.botInfo = { name: "FYP FAQ Chatbot", "_id": "st-ed624ddb-8cd8-56d2-95b4-32b27dd48fe1" }; // bot name is case sensitive
 
